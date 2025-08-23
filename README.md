@@ -3,7 +3,7 @@
 I'm **Merse Sárvári**, a passionate **Full Stack Developer** who loves building high-performance web applications, games, and helpful bots. I enjoy solving complex problems and turning ideas into real, interactive projects.
 
 ### 🔭 My Projects
-- [**Type Train**](https://type-train.com/) – An interactive typing platform to improve speed and accuracy.
+- [**Typetrain**](https://type-train.com/) – An interactive typing platform to improve speed and accuracy.
 - [**ChessMaster Cloud**](https://www.chessmaster.cloud/) – A cloud-based chess platform for learning and playing online.
 
 ### 🌱 Currently Learning
