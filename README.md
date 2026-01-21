@@ -4,7 +4,7 @@ I'm **Merse Sárvári**, a passionate **Full Stack Developer** who loves buildin
 
 ### 🔭 My Projects
 - [**Typetrain**](https://type-train.com/) – An interactive typing platform to improve speed and accuracy.
-- [**ChessMaster Cloud**](https://www.chessmaster.cloud/) – A cloud-based chess platform for learning and playing online.
+- [**ChessSolve**](https://www.chesssolve.com/) – A cloud-based chess platform for learning and playing online.
 
 ### 🌱 Currently Learning
 Exploring advanced **Next.js**, **Node.js**, **Tailwind CSS**, **MongoDB**, **MySQL**, and **C#** projects while enhancing my full-stack development skills.
@@ -14,6 +14,6 @@ If you like my work and want to support me, you can buy me a coffee here: [**Ko-
 
 ### 💬 Connect with Me
 - GitHub: [mersesarvari](https://github.com/mersesarvari)
-- Projects: [type-train.com](https://type-train.com/), [chessmaster.cloud](https://www.chessmaster.cloud/)
+- Projects: [type-train.com](https://type-train.com/), [chesssolve.com](https://www.chesssolve.com/)
 
 ⚡ Fun fact: I enjoy exploring new technologies and turning challenging ideas into fully functional applications!
