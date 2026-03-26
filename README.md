@@ -1,19 +1,18 @@
-## Hi there 👋
+## Merse Sárvári — Full Stack Developer
 
-I'm **Merse Sárvári**, a passionate **Full Stack Developer** who loves building high-performance web applications, games, and helpful bots. I enjoy solving complex problems and turning ideas into real, interactive projects.
+I build production-grade web applications with a focus on performance, clean architecture, and great user experience. I work across the full stack — from database design to frontend polish.
 
-### 🔭 My Projects
-- [**Typetrain**](https://type-train.com/) – An interactive typing platform to improve speed and accuracy.
-- [**ChessSolve**](https://www.chesssolve.com/) – A cloud-based chess platform for learning and playing online.
+### Projects
 
-### 🌱 Currently Learning
-Exploring advanced **Next.js**, **Node.js**, **Tailwind CSS**, **MongoDB**, **MySQL**, and **C#** projects while enhancing my full-stack development skills.
+- [**Statvisor**](https://statvisor.com) — API monitoring and analytics platform. Includes an [open-source SDK](https://github.com/mersesarvari/statvisor-sdk) for Express, Fastify, Next.js, Hono, and Cloudflare Workers.
+- [**Typetrain**](https://type-train.com) — Typing speed and accuracy trainer built for real improvement, not just metrics.
+- [**ChessSolve**](https://www.chesssolve.com) — Cloud-based chess platform for learning and competitive play.
 
-### 🤝 Support Me
-If you like my work and want to support me, you can buy me a coffee here: [**Ko-fi**](https://ko-fi.com/nazmox) ☕. Your support helps me keep creating and sharing exciting projects!
+### Stack
 
-### 💬 Connect with Me
-- GitHub: [mersesarvari](https://github.com/mersesarvari)
-- Projects: [type-train.com](https://type-train.com/), [chesssolve.com](https://www.chesssolve.com/)
+TypeScript · Next.js · Node.js · React · Tailwind CSS · MongoDB · MySQL · C#
 
-⚡ Fun fact: I enjoy exploring new technologies and turning challenging ideas into fully functional applications!
+### Connect
+
+- [github.com/mersesarvari](https://github.com/mersesarvari)
+- [ko-fi.com/nazmox](https://ko-fi.com/nazmox)
