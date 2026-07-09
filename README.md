@@ -12,6 +12,7 @@ I love turning caffeine into software. Here are the main projects I am working o
 * ♟️ **[ChessSolve](https://chesssolve.com)** — The ultimate real-time chess training partner. A powerful browser extension bringing a live Stockfish overlay and adaptive puzzle trainer directly to Chess.com and Lichess.
 * 📊 **[StatVisor](https://statvisor.com)** — Full-stack monitoring so I know exactly what broke while I was sleeping.
 * ✅ **[Validors](https://validors.com)** — To figure out why my chrome extensions never rank.
+* ⌨️ **[TypeTrain](https://type-train.com)** — Because I need to be able to type at 150 WPM when frantically writing apology emails and hotfixing production bugs. 
 
 ### 💻 The Stack I Wrestle With
 
