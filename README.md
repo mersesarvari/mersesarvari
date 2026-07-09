@@ -1,6 +1,8 @@
 ## Merse Sárvári — Full Stack Developer
 
-I build production-grade web applications with a focus on performance, clean architecture, and great user experience. I work across the full stack — from database design to frontend polish.
+10 years of software engineering and I still Google how to center a div. Now a solo founder building apps that actually solve my own problems. I ship fast and break things (then fix them at 2 AM).
+
+
 
 ### Stack
 
